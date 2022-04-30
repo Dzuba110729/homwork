@@ -2,4 +2,4 @@ tmp/
 *_old
 *_backup
 Thumbs.bd
-*DS_Store
+.DS_Store
